@@ -165,6 +165,10 @@ Then make sure that HTTP requests to `domain.com/.well-known/acme-challenge` are
 
 `make build && make image`
 
+For a quick build targeting the unix platform
+
+`bash build_nodep.sh`
+
 ### Contributions
 
 PR's welcome!
